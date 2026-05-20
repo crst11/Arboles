@@ -1,0 +1,14 @@
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolCarpetas\bin\Debug\net10.0\ArbolCarpetas.exe
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolCarpetas\bin\Debug\net10.0\ArbolCarpetas.deps.json
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolCarpetas\bin\Debug\net10.0\ArbolCarpetas.runtimeconfig.json
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolCarpetas\bin\Debug\net10.0\ArbolCarpetas.dll
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolCarpetas\bin\Debug\net10.0\ArbolCarpetas.pdb
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolCarpetas\obj\Debug\net10.0\ArbolCarpetas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolCarpetas\obj\Debug\net10.0\ArbolCarpetas.AssemblyInfoInputs.cache
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolCarpetas\obj\Debug\net10.0\ArbolCarpetas.AssemblyInfo.cs
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolCarpetas\obj\Debug\net10.0\ArbolCarpetas.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolCarpetas\obj\Debug\net10.0\ArbolCarpetas.dll
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolCarpetas\obj\Debug\net10.0\refint\ArbolCarpetas.dll
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolCarpetas\obj\Debug\net10.0\ArbolCarpetas.pdb
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolCarpetas\obj\Debug\net10.0\ArbolCarpetas.genruntimeconfig.cache
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolCarpetas\obj\Debug\net10.0\ref\ArbolCarpetas.dll

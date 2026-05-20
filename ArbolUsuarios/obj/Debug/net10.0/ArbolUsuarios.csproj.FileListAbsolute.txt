@@ -1,0 +1,14 @@
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolUsuarios\bin\Debug\net10.0\ArbolUsuarios.exe
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolUsuarios\bin\Debug\net10.0\ArbolUsuarios.deps.json
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolUsuarios\bin\Debug\net10.0\ArbolUsuarios.runtimeconfig.json
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolUsuarios\bin\Debug\net10.0\ArbolUsuarios.dll
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolUsuarios\bin\Debug\net10.0\ArbolUsuarios.pdb
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolUsuarios\obj\Debug\net10.0\ArbolUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolUsuarios\obj\Debug\net10.0\ArbolUsuarios.AssemblyInfoInputs.cache
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolUsuarios\obj\Debug\net10.0\ArbolUsuarios.AssemblyInfo.cs
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolUsuarios\obj\Debug\net10.0\ArbolUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolUsuarios\obj\Debug\net10.0\ArbolUsuarios.dll
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolUsuarios\obj\Debug\net10.0\refint\ArbolUsuarios.dll
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolUsuarios\obj\Debug\net10.0\ArbolUsuarios.pdb
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolUsuarios\obj\Debug\net10.0\ArbolUsuarios.genruntimeconfig.cache
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolUsuarios\obj\Debug\net10.0\ref\ArbolUsuarios.dll

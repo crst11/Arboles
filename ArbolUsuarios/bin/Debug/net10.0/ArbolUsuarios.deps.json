@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ArbolUsuarios/1.0.0": {
+        "runtime": {
+          "ArbolUsuarios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArbolUsuarios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

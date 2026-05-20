@@ -1,0 +1,14 @@
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\TiendaOnline\bin\Debug\net10.0\TiendaOnline.exe
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\TiendaOnline\bin\Debug\net10.0\TiendaOnline.deps.json
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\TiendaOnline\bin\Debug\net10.0\TiendaOnline.runtimeconfig.json
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\TiendaOnline\bin\Debug\net10.0\TiendaOnline.dll
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\TiendaOnline\bin\Debug\net10.0\TiendaOnline.pdb
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\TiendaOnline\obj\Debug\net10.0\TiendaOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\TiendaOnline\obj\Debug\net10.0\TiendaOnline.AssemblyInfoInputs.cache
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\TiendaOnline\obj\Debug\net10.0\TiendaOnline.AssemblyInfo.cs
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\TiendaOnline\obj\Debug\net10.0\TiendaOnline.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\TiendaOnline\obj\Debug\net10.0\TiendaOnline.dll
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\TiendaOnline\obj\Debug\net10.0\refint\TiendaOnline.dll
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\TiendaOnline\obj\Debug\net10.0\TiendaOnline.pdb
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\TiendaOnline\obj\Debug\net10.0\TiendaOnline.genruntimeconfig.cache
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\TiendaOnline\obj\Debug\net10.0\ref\TiendaOnline.dll

@@ -1,0 +1,14 @@
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolEscolar\bin\Debug\net10.0\ArbolEscolar.exe
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolEscolar\bin\Debug\net10.0\ArbolEscolar.deps.json
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolEscolar\bin\Debug\net10.0\ArbolEscolar.runtimeconfig.json
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolEscolar\bin\Debug\net10.0\ArbolEscolar.dll
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolEscolar\bin\Debug\net10.0\ArbolEscolar.pdb
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolEscolar\obj\Debug\net10.0\ArbolEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolEscolar\obj\Debug\net10.0\ArbolEscolar.AssemblyInfoInputs.cache
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolEscolar\obj\Debug\net10.0\ArbolEscolar.AssemblyInfo.cs
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolEscolar\obj\Debug\net10.0\ArbolEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolEscolar\obj\Debug\net10.0\ArbolEscolar.dll
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolEscolar\obj\Debug\net10.0\refint\ArbolEscolar.dll
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolEscolar\obj\Debug\net10.0\ArbolEscolar.pdb
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolEscolar\obj\Debug\net10.0\ArbolEscolar.genruntimeconfig.cache
+C:\Users\Cristian\Documents\4 Semestre\Estructura y Informacion\EJemplos Arboles\ArbolEscolar\obj\Debug\net10.0\ref\ArbolEscolar.dll
